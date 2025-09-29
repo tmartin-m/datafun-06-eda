@@ -1,1 +1,1 @@
-# datafun-06-spec
+# datafun-06-eda
