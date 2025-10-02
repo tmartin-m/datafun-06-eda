@@ -109,16 +109,15 @@ git push -u origin main
 ```
 
 4. Example Repo
-https://github.com/denisecase/datafun-06-spec
+    https://github.com/denisecase/datafun-06-spec
 
 5. Data Source
-https://github.com/mwaskom/seaborn-data/blob/master/tips.csv
-
-The Seaborn Tips Dataset includes 244 points of different people who paid a their dining bill. The dataset includes the following variables:
-  Total Bill - Total amount of the dining experience
-  Tip - Amount of the tip left by the bill payer
-  Sex - Gender of the person who paid the bill
-  Smoker - Whether the person
-  Day - Day of the week the person dined
-  Time - Time of day the person dined 
-  Size - The number of people in the dining party
+   - https://github.com/mwaskom/seaborn-data/blob/master/tips.csv
+   - The Seaborn Tips Dataset includes 244 points of different people who paid a their dining bill. The dataset includes the following variables:
+     - Total Bill - Total amount of the dining experience
+     - Tip - Amount of the tip left by the bill payer
+     - Sex - Gender of the person who paid the bill
+     - Smoker - Whether the person
+     - Day - Day of the week the person dined
+     - Time - Time of day the person dined 
+     - Size - The number of people in the dining party
