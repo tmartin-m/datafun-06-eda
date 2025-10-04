@@ -111,7 +111,17 @@ git push -u origin main
 4. Example Repo
     https://github.com/denisecase/datafun-06-spec
 
-5. Data Source
+5. Project Specs
+   1. Import Dependencies (At the Top, After the Introduction)
+   2. Data Acquisition
+   3. Initial Data Inspection
+   4. Initial Descriptive Statistics
+   5. Initial Data Distribution for Numerical Columns
+   6. Initial Data Distribution for Categorical Columns
+   7. Initial Data Transformation and Feature Engineering
+   8. Initial Visualizations
+
+6. Data Source
    - https://github.com/mwaskom/seaborn-data/blob/master/tips.csv
    - The Seaborn Tips Dataset includes 244 points of different people who paid a their dining bill. The dataset includes the following variables:
      - Total Bill - Total amount of the dining experience
@@ -121,3 +131,9 @@ git push -u origin main
      - Day - Day of the week the person dined
      - Time - Time of day the person dined 
      - Size - The number of people in the dining party
+
+7. Initial Insights
+   - Based on the above tables and visuals the following insights can be made:
+     - Most bill payers dined during dinner on the weekend.
+     - The average tip percentage falls right in with the expected average of 15%-20%.
+     - Nonsmokers were more likely to increase their tip amount as their bill increased compared to smokers. Most days had a very similar spread of tips cluster between $2.00-$4.00.
